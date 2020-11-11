@@ -109,6 +109,10 @@
 	    padding: 12px 0;
 	    font-size: 28px;
 	}
+	.line:before {
+	    content: "";
+	    width: 63px;
+	}
 
 	.portfolio_section h3 {
 	    font-size: 16px;
